@@ -8,6 +8,7 @@
  */
 
 import Vue from "vue";
+import BlogHome from "@/components/BlogHome";
 import VueRouter from "vue-router";
 
 Vue.use(VueRouter);
@@ -16,8 +17,7 @@ const routes = [
   {
     path: "/",
     name: "Home",
-    component: () =>
-      import(/* webpackChunkName: "/" */ "../views/reception/Home.vue")
+    component: BlogHome
   },
   {
     path: "/about",

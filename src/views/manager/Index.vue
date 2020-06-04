@@ -5,7 +5,7 @@
  * @LastEditors: your name
  * @Description: In User Settings Edit
  * @FilePath: \vue\vuetest\src\views\manager\Index.vue
---> 
+-->
 
 <template>
   <div class="about">
