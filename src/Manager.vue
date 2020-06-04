@@ -1,11 +1,11 @@
 <!--
  * @Author: your name
- * @Date: 2020-06-04 11:38:55
- * @LastEditTime: 2020-06-04 15:23:41
+ * @Date: 2020-06-04 15:26:18
+ * @LastEditTime: 2020-06-04 15:26:28
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \vue\vuetest\src\App.vue
--->
+ * @FilePath: \vue\vuetest\src\Manager.vue
+--> 
 <template>
   <div id="app">
     <div id="nav">
