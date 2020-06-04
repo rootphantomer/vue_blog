@@ -1,14 +1,14 @@
 <!--
  * @Author: your name
- * @Date: 2020-06-04 11:38:55
- * @LastEditTime: 2020-06-04 13:46:11
+ * @Date: 2020-06-04 11:45:46
+ * @LastEditTime: 2020-06-04 13:46:30
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
- * @FilePath: \vue\vuetest\src\views\About.vue
+ * @FilePath: \vue\vuetest\src\views\Boke.vue
 --> 
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
+  <div class="Tag">
+    <h1>This is an Tag page</h1>
   </div>
 </template>
 

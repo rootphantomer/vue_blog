@@ -1,8 +1,18 @@
+<!--
+ * @Author: your name
+ * @Date: 2020-06-04 11:38:55
+ * @LastEditTime: 2020-06-04 13:41:33
+ * @LastEditors: Please set LastEditors
+ * @Description: In User Settings Edit
+ * @FilePath: \vue\vuetest\src\App.vue
+--> 
 <template>
   <div id="app">
     <div id="nav">
       <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/tag">Tag</router-link>|
+      <router-link to="/send">Send</router-link>|
+      <router-link to="/about">About</router-link> 
     </div>
     <router-view />
   </div>
